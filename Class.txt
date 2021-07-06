@@ -1,2 +1,4 @@
 Welcome to quiers class.
 C,Python,Java,c#,DBMS
+ 
+ Thanks!!!!
